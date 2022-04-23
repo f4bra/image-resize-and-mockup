@@ -2,7 +2,7 @@
   <h3 align="center">Image Title and Mockup Generator</h3>
 
 ![alt text](https://i.etsystatic.com/34379899/r/il/1486ee/3767068935/il_1140xN.3767068935_8jiq.jpg)
-## Place Image Title
+## Image Title
 
 image-title.py script will position an image title and subtitle taking as input the image name. For the image example would be "Matterhorn Switzerland.jpeg".
 
