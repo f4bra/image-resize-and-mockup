@@ -6,7 +6,7 @@
 
 image-title.py script will position an image title and subtitle taking as input the image name. For the image example would be "Matterhorn Switzerland.jpeg".
 
-It will also generate different image ratios, from a 2x3 image it will factor the image height.
+It will also generate different image ratios, from a 2x3 image it will factor the image height and cropped it.
 * 2x3
 * 3x4
 * 4x5
