@@ -3,7 +3,7 @@ import re, math, zipfile
 
 img = Image.open("Barcelona Spain.jpg")
 d = ImageDraw.Draw(img) 
-# Origianal Image Ratio
+# Original Image Ratio
 r = math.gcd(img.size[0], img.size[1])
 x = int(img.size[0] / r)
 y = int(img.size[1]/ r)
